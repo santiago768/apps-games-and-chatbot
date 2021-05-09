@@ -1,0 +1,34 @@
+body {
+    
+    text-align: center;
+}
+
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+
+img{
+    width:400px;
+    height: 600px;
+    
+}
+img:hover{
+    transform:scale(0.9);
+}
+#apps{
+    background-color: aqua;
+}
+#games{
+    background-color: red;
+}
+#bot{
+    background-color: yellow;
+}
+section{
+    height: 800px;
+}
